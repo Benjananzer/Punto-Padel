@@ -1,0 +1,8 @@
+{
+  "name": "punto-padel-franck",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web de turnos de pádel — Punto Pádel Franck (Vercel + Neon)",
+  "engines": { "node": ">=18" },
+  "dependencies": { "@neondatabase/serverless": "^0.10.4" }
+}
